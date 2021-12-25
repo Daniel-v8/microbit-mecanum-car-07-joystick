@@ -1,5 +1,5 @@
 {
-    "name": "麦克纳姆轮-遥控",
+    "name": "joystick",
     "description": "",
     "dependencies": {
         "core": "*",
